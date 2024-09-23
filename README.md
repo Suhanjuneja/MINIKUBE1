@@ -21,6 +21,8 @@ STEPS TO INSTALL MINIKUBE
 
        curl -sL https://github.com/ShubhamTatvamasi/docker-install/raw/master/docker-install.sh | bash
 
+![image alt](
+
 2 Then paste the following links,Add your local user to docker group so that your local user run docker commands without sudo.
 
     sudo usermod -aG docker $USER
