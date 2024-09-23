@@ -78,3 +78,6 @@ STEPS TO INSTALL MINIKUBE
 15 To open the dashboard in browser run this command on your browser change the text wehere it is written server_ip and paste your public ip 
 
     http://server_ip:8001/api/v1/namespaces/kubernetes-dashboard/services/http:kubernetes-dashboard:/proxy/
+
+
+![image alt](https://github.com/Suhanjuneja/MINIKUBE1/blob/432326cb77282d3d5072e230d3aa8e181cb59b17/Screenshot%20(148).png)
