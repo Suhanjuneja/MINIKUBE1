@@ -30,6 +30,8 @@ STEPS TO INSTALL MINIKUBE
 
     newgrp docker
 
+![image alt](https://github.com/Suhanjuneja/MINIKUBE1/blob/e40dcf788358329c9c8be1baa71a36a347a1d965/Screenshot%20(145).png)
+
 3 After that run this command
 
       sudo snap install kubectl --classic
