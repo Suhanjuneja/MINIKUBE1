@@ -81,3 +81,6 @@ STEPS TO INSTALL MINIKUBE
 
 
 ![image alt](https://github.com/Suhanjuneja/MINIKUBE1/blob/432326cb77282d3d5072e230d3aa8e181cb59b17/Screenshot%20(148).png)
+
+
+![image alt]
