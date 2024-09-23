@@ -15,6 +15,8 @@ STEPS TO INSTALL MINIKUBE
 
 ![image alt](https://github.com/Suhanjuneja/MINIKUBE1/blob/e7c324f39b9c4efffb5a0d9ddfaed3362d31e65e/Screenshot%20(135).png)
 
+
+
   1 After logging in putty paste this link to install docker
 
        curl -sL https://github.com/ShubhamTatvamasi/docker-install/raw/master/docker-install.sh | bash
