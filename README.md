@@ -75,6 +75,8 @@ STEPS TO INSTALL MINIKUBE
 
     kubectl proxy --address='0.0.0.0' --disable-filter=true &
 
+![image alt](https://github.com/Suhanjuneja/MINIKUBE1/blob/54afbc9168de4b63d7bd9bf8fd7fa80b37149f06/Screenshot%20(147).png)
+
 15 To open the dashboard in browser run this command on your browser change the text wehere it is written server_ip and paste your public ip 
 
     http://server_ip:8001/api/v1/namespaces/kubernetes-dashboard/services/http:kubernetes-dashboard:/proxy/
