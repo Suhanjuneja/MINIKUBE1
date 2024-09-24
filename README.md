@@ -1,5 +1,19 @@
 # MINIKUBE
 
+# What is MINI KUBE
+
+Minikube is a tool that allows you to run a local Kubernetes cluster on your machine. It's particularly useful for developers who want to experiment with Kubernetes without needing a full-fledged cloud setup. Minikube creates a single-node cluster inside a virtual machine (or as a container) on your local system, making it easy to deploy, manage, and test applications in a Kubernetes environment.
+
+Here are some key features of Minikube:
+
+- Local Development: You can easily test and develop applications that will run in Kubernetes.
+
+- Multiple Drivers: Supports various virtualization drivers like VirtualBox, VMware, and Docker, so you can choose the one that works best for your environment.
+
+- Add-ons: Minikube comes with several built-in add-ons that can be enabled or disabled as needed, such as metrics-server, Ingress controllers, and more.
+
+- Easy Setup: Quick to install and set up, allowing you to get a Kubernetes environment running in minutes.
+
 STEPS TO INSTALL MINIKUBE 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
